@@ -1,2 +1,2 @@
 # Docker
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Practica1](docs/CONTRIBUTING.md)
