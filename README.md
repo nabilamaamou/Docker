@@ -1,2 +1,2 @@
 # Docker
-[Practica1](docs/CONTRIBUTING.md)
+[Practica1](DockerPractica2.pdf)
